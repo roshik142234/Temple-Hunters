@@ -131,7 +131,7 @@ function draw() {
       tp.scale=0.3;
       tp.velocityY=0;
 
-      fill("red");
+      fill("blue");
       textAlign(CENTER);
       textSize(20);
       text("Welcome explorer to the fallen Aztec Empire, to seek our secrets and treasures you must be a brave one!", tp.x, tp.y-500);
